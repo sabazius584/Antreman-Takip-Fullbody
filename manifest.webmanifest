@@ -1,0 +1,11 @@
+{
+  "name": "Antrenman Takip",
+  "short_name": "Antrenman",
+  "description": "Mobil antrenman ve set takip uygulaması",
+  "lang": "tr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#0b1020"
+}
